@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sariyu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from united states</h3>
 
 - 🌱 I’m currently learning **html,css,javascript,python,c language,c++,opengl**
 
